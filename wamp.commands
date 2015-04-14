@@ -5,3 +5,4 @@
 #./test/SimpleExample/simple_client -e 10.90.78.92 -p 30490 -r realm1 -v4 -t0
 #
 #
+./test/ComplexExample/complex_server -e 10.90.78.92 -p 30490 -r realm1 -v4 -t0
